@@ -13,7 +13,7 @@ const Header = () => {
         <div className={classes["header__logo"]}>{logo}</div>
         
           
-        </div>
+        
 
       </header>
     </Fragment>
